@@ -1,0 +1,1 @@
+Scalina is a calculus that models a core subset of Scala, used to prototype new features for the full language: it consists of a formal description of the calculus, and a Scala implementation of a parser, type checker and run-time, as well as a converter of a true subset of Scala into the core Scalina calculus.
